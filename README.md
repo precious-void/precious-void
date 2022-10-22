@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!-- [![@shtelzerartem's Holopin board](https://holopin.io/api/user/board?user=stelzer)](https://holopin.io/@stelzer) -->
+[![@shtelzerartem's Holopin board](https://holopin.io/api/user/board?user=stelzer)](https://holopin.io/@stelzer)
 
 My name is Artem and I'm a Fullstack developer.
 
